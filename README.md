@@ -15,4 +15,4 @@ SwiftUI 공부하는 곳입니다.
 |:--:|:--:|
 |<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/81850cab-857d-472a-b16d-08dd46be859c" />|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/c847894a-3963-40bb-9a09-d3f5b8c53862">|
 
-> 저작권은 CodeWithChris에게 아마도 있을겁니다. 귀여운 이미지도 사용하긴 하는데..봐줘..막이래
+> 상업적인 사용은 절대 안합니다. 그리고 저작권은 CodeWithChris에게 아마도 있을겁니다. 귀여운 이미지도 사용하긴 하는데..봐줘..막이래
