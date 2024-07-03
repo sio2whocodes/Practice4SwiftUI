@@ -11,6 +11,9 @@
 		CD2579182C32E9E100EC76D4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2579172C32E9E100EC76D4 /* ContentView.swift */; };
 		CD25791A2C32E9E300EC76D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD2579192C32E9E300EC76D4 /* Assets.xcassets */; };
 		CD25791D2C32E9E300EC76D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD25791C2C32E9E300EC76D4 /* Preview Assets.xcassets */; };
+		CD2579262C34468800EC76D4 /* ExerciseOfLayoutContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2579252C34468800EC76D4 /* ExerciseOfLayoutContainer.swift */; };
+		CD25792E2C354F9F00EC76D4 /* Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25792D2C354F9F00EC76D4 /* Modifiers.swift */; };
+		CD2579302C3556A300EC76D4 /* Challenge4Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25792F2C3556A300EC76D4 /* Challenge4Modifiers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		CD2579172C32E9E100EC76D4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CD2579192C32E9E300EC76D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD25791C2C32E9E300EC76D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CD2579252C34468800EC76D4 /* ExerciseOfLayoutContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseOfLayoutContainer.swift; sourceTree = "<group>"; };
+		CD25792D2C354F9F00EC76D4 /* Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modifiers.swift; sourceTree = "<group>"; };
+		CD25792F2C3556A300EC76D4 /* Challenge4Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge4Modifiers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				CD2579152C32E9E100EC76D4 /* Practice4SwiftUIApp.swift */,
 				CD2579172C32E9E100EC76D4 /* ContentView.swift */,
+				CD2579252C34468800EC76D4 /* ExerciseOfLayoutContainer.swift */,
+				CD25792D2C354F9F00EC76D4 /* Modifiers.swift */,
+				CD25792F2C3556A300EC76D4 /* Challenge4Modifiers.swift */,
 				CD2579192C32E9E300EC76D4 /* Assets.xcassets */,
 				CD25791B2C32E9E300EC76D4 /* Preview Content */,
 			);
@@ -137,8 +146,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD25792E2C354F9F00EC76D4 /* Modifiers.swift in Sources */,
+				CD2579302C3556A300EC76D4 /* Challenge4Modifiers.swift in Sources */,
 				CD2579182C32E9E100EC76D4 /* ContentView.swift in Sources */,
 				CD2579162C32E9E100EC76D4 /* Practice4SwiftUIApp.swift in Sources */,
+				CD2579262C34468800EC76D4 /* ExerciseOfLayoutContainer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
