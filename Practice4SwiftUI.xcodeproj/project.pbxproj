@@ -25,6 +25,7 @@
 		CD2579252C34468800EC76D4 /* ExerciseOfLayoutContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseOfLayoutContainer.swift; sourceTree = "<group>"; };
 		CD25792D2C354F9F00EC76D4 /* Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modifiers.swift; sourceTree = "<group>"; };
 		CD25792F2C3556A300EC76D4 /* Challenge4Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge4Modifiers.swift; sourceTree = "<group>"; };
+		CD2579342C35679A00EC76D4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,11 +58,10 @@
 		CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CD2579332C35678900EC76D4 /* 03Modifiers */,
 				CD2579152C32E9E100EC76D4 /* Practice4SwiftUIApp.swift */,
 				CD2579172C32E9E100EC76D4 /* ContentView.swift */,
 				CD2579252C34468800EC76D4 /* ExerciseOfLayoutContainer.swift */,
-				CD25792D2C354F9F00EC76D4 /* Modifiers.swift */,
-				CD25792F2C3556A300EC76D4 /* Challenge4Modifiers.swift */,
 				CD2579192C32E9E300EC76D4 /* Assets.xcassets */,
 				CD25791B2C32E9E300EC76D4 /* Preview Content */,
 			);
@@ -74,6 +74,16 @@
 				CD25791C2C32E9E300EC76D4 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CD2579332C35678900EC76D4 /* 03Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				CD25792D2C354F9F00EC76D4 /* Modifiers.swift */,
+				CD25792F2C3556A300EC76D4 /* Challenge4Modifiers.swift */,
+				CD2579342C35679A00EC76D4 /* README.md */,
+			);
+			path = 03Modifiers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
