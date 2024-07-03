@@ -11,7 +11,6 @@ SwiftUI 공부하는 곳입니다.
 |03|7/3|[Modifiers](https://youtu.be/MJP60XnN4us?si=YBiUpV7mxAIwNTAG)|[03](https://github.com/sio2whocodes/Practice4SwiftUI/blob/main/Practice4SwiftUI/Modifiers.swift)|[과제제출](https://github.com/sio2whocodes/Practice4SwiftUI/blob/main/Practice4SwiftUI/Challenge4Modifiers.swift)
 
 ## 과제 인증 사진 📱
-<p>
-  <img width="255" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/81850cab-857d-472a-b16d-08dd46be859c" /><br>
-  <em>02 Layout Containers 과제</em>
-</p>
+|02 Layout Containers 과제|03 Modifiers Challenge|
+|:--:|:--:|
+|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/81850cab-857d-472a-b16d-08dd46be859c" />|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/c847894a-3963-40bb-9a09-d3f5b8c53862">|
