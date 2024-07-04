@@ -9,4 +9,5 @@
 UIKit에서는 변수의 값이 변할 때 이를 UI에 반영되게 하려면 label에 text를 넣거나 reload를 코드상에서 호출해줘야 했던 것 같은데 이런 점이 더 편해진 것 같다.
 
 \+ boolean 변수에 .toggle()하면 이 함수를 호출할 때 마다 boolean의 값이 toggle된다.라는 의미임. 그래서 button action에 넣으면 버튼을 누를 때 마다 변수 값이 토글됨
+
 \+ button label 코드 블럭 안에 if 문 같은 코드 넣어도 됨 (당연함)
