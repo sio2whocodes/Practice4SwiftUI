@@ -14,6 +14,7 @@
 		CD2579262C34468800EC76D4 /* ExerciseOfLayoutContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2579252C34468800EC76D4 /* ExerciseOfLayoutContainer.swift */; };
 		CD25792E2C354F9F00EC76D4 /* Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25792D2C354F9F00EC76D4 /* Modifiers.swift */; };
 		CD2579302C3556A300EC76D4 /* Challenge4Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25792F2C3556A300EC76D4 /* Challenge4Modifiers.swift */; };
+		CD2579372C36CFD300EC76D4 /* StateProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2579362C36CFD300EC76D4 /* StateProperties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		CD25792D2C354F9F00EC76D4 /* Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modifiers.swift; sourceTree = "<group>"; };
 		CD25792F2C3556A300EC76D4 /* Challenge4Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge4Modifiers.swift; sourceTree = "<group>"; };
 		CD2579342C35679A00EC76D4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CD2579362C36CFD300EC76D4 /* StateProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateProperties.swift; sourceTree = "<group>"; };
+		CD2579382C36D4C300EC76D4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,7 @@
 		CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CD2579352C36CFAE00EC76D4 /* 04StateProperties */,
 				CD2579332C35678900EC76D4 /* 03Modifiers */,
 				CD2579152C32E9E100EC76D4 /* Practice4SwiftUIApp.swift */,
 				CD2579172C32E9E100EC76D4 /* ContentView.swift */,
@@ -84,6 +88,15 @@
 				CD2579342C35679A00EC76D4 /* README.md */,
 			);
 			path = 03Modifiers;
+			sourceTree = "<group>";
+		};
+		CD2579352C36CFAE00EC76D4 /* 04StateProperties */ = {
+			isa = PBXGroup;
+			children = (
+				CD2579362C36CFD300EC76D4 /* StateProperties.swift */,
+				CD2579382C36D4C300EC76D4 /* README.md */,
+			);
+			path = 04StateProperties;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -160,6 +173,7 @@
 				CD2579302C3556A300EC76D4 /* Challenge4Modifiers.swift in Sources */,
 				CD2579182C32E9E100EC76D4 /* ContentView.swift in Sources */,
 				CD2579162C32E9E100EC76D4 /* Practice4SwiftUIApp.swift in Sources */,
+				CD2579372C36CFD300EC76D4 /* StateProperties.swift in Sources */,
 				CD2579262C34468800EC76D4 /* ExerciseOfLayoutContainer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
