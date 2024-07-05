@@ -16,6 +16,7 @@
 		CD2579302C3556A300EC76D4 /* Challenge4Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25792F2C3556A300EC76D4 /* Challenge4Modifiers.swift */; };
 		CD2579372C36CFD300EC76D4 /* StateProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2579362C36CFD300EC76D4 /* StateProperties.swift */; };
 		CD25793B2C37CC8900EC76D4 /* SFSymbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25793A2C37CC8900EC76D4 /* SFSymbols.swift */; };
+		CD25793E2C37D5CA00EC76D4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CD25793D2C37D5CA00EC76D4 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		CD2579382C36D4C300EC76D4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CD25793A2C37CC8900EC76D4 /* SFSymbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFSymbols.swift; sourceTree = "<group>"; };
 		CD25793C2C37D13A00EC76D4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CD25793D2C37D5CA00EC76D4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 		CD2579092C32E9E100EC76D4 = {
 			isa = PBXGroup;
 			children = (
+				CD25793D2C37D5CA00EC76D4 /* README.md */,
 				CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */,
 				CD2579132C32E9E100EC76D4 /* Products */,
 			);
@@ -170,6 +173,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD25793E2C37D5CA00EC76D4 /* README.md in Resources */,
 				CD25791D2C32E9E300EC76D4 /* Preview Assets.xcassets in Resources */,
 				CD25791A2C32E9E300EC76D4 /* Assets.xcassets in Resources */,
 			);
