@@ -11,7 +11,7 @@ SwiftUI 공부하는 곳입니다.
 |03|7/3|[Modifiers](https://youtu.be/MJP60XnN4us?si=YBiUpV7mxAIwNTAG)|[03](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/03Modifiers)|[과제제출](https://github.com/sio2whocodes/Practice4SwiftUI/blob/main/Practice4SwiftUI/Challenge4Modifiers.swift)
 |04|7/4|[State Properties](https://www.youtube.com/watch?v=wQLOWv8l7yI&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&index=4)|[04](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/04StateProperties)|[과제제출](https://github.com/sio2whocodes/Practice4SwiftUI/blob/main/Practice4SwiftUI/04StateProperties/StateProperties.swift)
 |05|7/5|[SFSymbols](https://www.youtube.com/watch?v=HjX4cAcvAWc&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&index=5)|[05](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/05SFSymbols)|없었음!TGIF
-|06|7/8|[Slots App](https://www.youtube.com/watch?v=51Z9Kun7tFo)|[06]()|없었음
+|06|7/8|[Slots App](https://www.youtube.com/watch?v=51Z9Kun7tFo)|[06](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Slots%20Demo)|없었음
 
 ## 과제 인증 사진 📱
 |02 Layout Containers 과제|03 Modifiers Challenge|04 State Properties|06 Slots App|
