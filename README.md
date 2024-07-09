@@ -12,11 +12,12 @@ SwiftUI 공부하는 곳입니다.
 |04|7/4|[State Properties](https://www.youtube.com/watch?v=wQLOWv8l7yI&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&index=4)|[04](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/04StateProperties)|[과제제출](https://github.com/sio2whocodes/Practice4SwiftUI/blob/main/Practice4SwiftUI/04StateProperties/StateProperties.swift)
 |05|7/5|[SFSymbols](https://www.youtube.com/watch?v=HjX4cAcvAWc&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&index=5)|[05](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/05SFSymbols)|없었음!TGIF
 |06|7/8|[Slots App](https://www.youtube.com/watch?v=51Z9Kun7tFo)|[06](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Slots%20Demo)|없었음
+|07|7/9|[Data Flow and View Composition]()|[07]()|없었음
 
 ## 과제 인증 사진 📱
-|02 Layout Containers 과제|03 Modifiers Challenge|04 State Properties|06 Slots App|
-|:--:|:--:|:--:|:--:|
-|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/81850cab-857d-472a-b16d-08dd46be859c" />|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/c847894a-3963-40bb-9a09-d3f5b8c53862">|<img width="200" alt="image" src ="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/84742c5e-a162-4189-afb8-a47e27ce064c">|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/2b517494-352c-46fc-a35f-e1c8652ec225">
+|02 Layout Containers 과제|03 Modifiers Challenge|04 State Properties|06 Slots App|07 Data Flow and View Compotision|
+|:--:|:--:|:--:|:--:|:--:|
+|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/81850cab-857d-472a-b16d-08dd46be859c" />|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/c847894a-3963-40bb-9a09-d3f5b8c53862">|<img width="200" alt="image" src ="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/84742c5e-a162-4189-afb8-a47e27ce064c">|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/2b517494-352c-46fc-a35f-e1c8652ec225">|<img>
 
 
 
