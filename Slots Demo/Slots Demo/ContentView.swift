@@ -145,100 +145,27 @@ struct ContentView: View {
         
         if !isMax {
             // Processing for single spin
+            
             // middle row
-            if number[3] == number[4] && number[4] == number[5] {
-                
-                // Won
-                matches += 1
-                
-                // Update backgrounds to green
-                backgrounds = backgrounds.enumerated().map{
-                    if 3...5 ~= $0.0 {
-                        return Color.green
-                    } else {
-                        return Color.white
-                    }
-                }
-            }
+            if isMatch(3,4,5) { matches += 1 }
+            
         } else {
             // Processing for max spin
+            
             // top row
-            if number[0] == number[1] && number[1] == number[2] {
-                
-                // Won
-                matches += 1
-                
-                // Update backgrounds to green
-                backgrounds = backgrounds.enumerated().map{
-                    if 0...2 ~= $0.0 {
-                        return Color.green
-                    } else {
-                        return Color.white
-                    }
-                }
-            }
+            if isMatch(0,1,2) { matches += 1 }
+            
             // middle row
-            if number[3] == number[4] && number[4] == number[5] {
-                
-                // Won
-                matches += 1
-                
-                // Update backgrounds to green
-                backgrounds = backgrounds.enumerated().map{
-                    if 3...5 ~= $0.0 {
-                        return Color.green
-                    } else {
-                        return Color.white
-                    }
-                }
-            }
+            if isMatch(3,4,5) { matches += 1 }
+            
             // bottom row
-            if number[6] == number[7] && number[7] == number[8] {
-                
-                // Won
-                matches += 1
-                
-                // Update backgrounds to green
-                backgrounds = backgrounds.enumerated().map{
-                    if 6...8 ~= $0.0 {
-                        return Color.green
-                    } else {
-                        return Color.white
-                    }
-                }
-            }
+            if isMatch(6,7,8) { matches += 1 }
             
             // diagonal top left to bottom right
-            if number[0] == number[4] && number[4] == number[8] {
-                
-                // Won
-                matches += 1
-                
-                // Update backgrounds to green
-                backgrounds = backgrounds.enumerated().map{
-                    if [0,4,8].contains($0.0) {
-                        return Color.green
-                    } else {
-                        return Color.white
-                    }
-                }
-            }
+            if isMatch(0,4,8) { matches += 1 }
             
             // diagonal top right to bottom left
-            if number[2] == number[4] && number[4] == number[6] {
-                
-                // Won
-                matches += 1
-                
-                // Update backgrounds to green
-                backgrounds = backgrounds.enumerated().map{
-                    if [2,4,6].contains($0.0) {
-                        return Color.green
-                    } else {
-                        return Color.white
-                    }
-                }
-            }
+            if isMatch(2,4,6) { matches += 1 }
         }
         
         //Check matches and distributes credits
@@ -255,7 +182,21 @@ struct ContentView: View {
         }
         
     }
+    
+    func isMatch(_ index1:Int, _ index2:Int, _ index3:Int) -> Bool {
+        if number[index1] == number[index2] && number[index2] == number[index3] {
+            
+            // Update backgrounds to green
+            backgrounds[index1] = Color.green
+            backgrounds[index2] = Color.green
+            backgrounds[index3] = Color.green
+            
+            return true
+        }
+        return false
+    }
 }
+
 
 #Preview {
     ContentView()
