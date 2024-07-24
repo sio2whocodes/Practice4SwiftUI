@@ -14,6 +14,7 @@ SwiftUI 공부하는 곳입니다.
 |06|7/8|[Slots App](https://www.youtube.com/watch?v=51Z9Kun7tFo)|[06](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Slots%20Demo)|없었음
 |07|7/9|[Data Flow and View Composition](https://www.youtube.com/watch?v=NKRJmWKB_Z8&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&index=7)|[07](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/07DataFlowNViewComposition)|없었음
 |08|7/10|[Improving Slots App](https://www.youtube.com/watch?v=aLSzgZtOpG8&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&index=8)|[08](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Slots%20Demo)|완료!아래 사진!
+|09|7/25|[Animation](https://www.youtube.com/watch?v=K00oSg1gm_0&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&index=15)|[09](https://github.com/sio2whocodes/Practice4SwiftUI/blob/main/Slots%20Demo/Animation.md)|없었슈
 
 ## 과제 인증 사진 📱
 |02 Layout Containers 과제|03 Modifiers Challenge|04 State Properties|06 Slots App|
