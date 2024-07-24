@@ -16,6 +16,7 @@
 
 /* Begin PBXFileReference section */
 		CD33FA442C3E263F00C863AD /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		CDBDE5662C5153AD00B2C366 /* Animation.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Animation.md; sourceTree = "<group>"; };
 		CDC3B0182C3BBCCC001CC80D /* Slots Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Slots Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDC3B01B2C3BBCCC001CC80D /* Slots_DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slots_DemoApp.swift; sourceTree = "<group>"; };
 		CDC3B01D2C3BBCCC001CC80D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -38,6 +39,7 @@
 		CDC3B00F2C3BBCCC001CC80D = {
 			isa = PBXGroup;
 			children = (
+				CDBDE5662C5153AD00B2C366 /* Animation.md */,
 				CDC3B0292C3BCEF7001CC80D /* README.md */,
 				CDC3B01A2C3BBCCC001CC80D /* Slots Demo */,
 				CDC3B0192C3BBCCC001CC80D /* Products */,

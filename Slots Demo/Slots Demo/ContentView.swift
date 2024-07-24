@@ -12,9 +12,11 @@ struct ContentView: View {
     @State private var backgrounds = [Color.white, Color.white, Color.white, Color.white, Color.white, Color.white, Color.white, Color.white, Color.white]
     @State private var number = [0, 0, 0, 0, 0, 0, 0, 0, 0]
     @State private var credits = 1000
+    @State private var win = false
     private var betAmount = 5
     
     var body: some View {
+        
         ZStack {
             //Background
             Rectangle().foregroundColor(Color(red: 200/255, green: 143/255, blue: 32/255))
@@ -42,8 +44,11 @@ struct ContentView: View {
                 Text("Credits: " + String(credits))
                     .foregroundColor(.black)
                     .padding(.all, 10)
-                    .background(Color.white.opacity(0.5))
+                    .animation(.none)
+                    .background(win ? Color.green.opacity(0.5) : Color.white.opacity(0.5))
                     .cornerRadius(20)
+                    .scaleEffect(win ? 1.1 : 1.0)
+                    .animation(.spring(Spring(response: 0.7, dampingRatio: 0.3)))
                 Spacer()
                 
                 // Cards
@@ -106,7 +111,6 @@ struct ContentView: View {
                         Text("25 credits").font(.footnote)
                     }
                 }
-                
                 Spacer()
             }
         }
@@ -168,11 +172,13 @@ struct ContentView: View {
             if isMatch(2,4,6) { matches += 1 }
         }
         
+        win = false
+        
         //Check matches and distributes credits
         if matches > 0 {
             // at least one win
             credits += (matches * betAmount * 2)
-
+            win = true
         } else if !isMax {
             // 0 wins, single spin
             credits -= betAmount

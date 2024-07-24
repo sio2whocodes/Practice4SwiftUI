@@ -14,11 +14,30 @@ struct CardView: View {
     @Binding var background:Color
     
     var body: some View {
-        Image(symbol)
-            .resizable()
-            .aspectRatio(1, contentMode: .fit)
-            .background(background.opacity(0.5))
-            .clipShape(.rect(cornerRadius: 20))
+        VStack {
+            if symbol == "apple" {
+                Image(symbol)
+                .resizable()
+                .aspectRatio(1, contentMode: .fit)
+                .transition(AnyTransition.slide)
+            } else if symbol == "cherry" {
+                Image(symbol)
+                .resizable()
+                .aspectRatio(1, contentMode: .fit)
+                .transition(AnyTransition.slide)
+            } else if symbol == "star" {
+                Image(symbol)
+                .resizable()
+                .aspectRatio(1, contentMode: .fit)
+                .transition(AnyTransition.move(edge: .bottom))
+            }
+            // 왜 || 로 if 문 하나에 몰아넣으면 슬라이드 안적용되지?
+        }
+        .background(background.opacity(0.5))
+        .clipShape(.rect(cornerRadius: 20))
+//        .animation(Animation.default, value: background)
+        .animation(.default)
+        // 위에 animation 함수 써도 적용 안됨
     }
 }
 
