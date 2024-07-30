@@ -1,7 +1,9 @@
 ## Practice for SwiftUI 🧡
 SwiftUI 공부하는 곳입니다.
 
-- **Learning Source**: [Swift Tutorials for Beginners by CodeWithChris](https://youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&si=f5SkIG1z4crQjNRd) (총 14강) 
+- **Learning Source**
+    - [Swift Tutorials for Beginners by CodeWithChris](https://youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&si=f5SkIG1z4crQjNRd) (총 14강)
+    - [SwiftUI Components by CodeWithChris](https://youtube.com/playlist?list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf&si=d_lvuwixWzzLUlYV) (총 12강)
 - **목표**: 매일 하나씩 듣고 따라하기 (Exercise도 있음)
 
 |회차|날짜|강의링크|연습코드링크|과제함?|
