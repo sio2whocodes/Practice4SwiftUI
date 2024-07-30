@@ -17,6 +17,7 @@
 		CD2579372C36CFD300EC76D4 /* StateProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2579362C36CFD300EC76D4 /* StateProperties.swift */; };
 		CD25793B2C37CC8900EC76D4 /* SFSymbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25793A2C37CC8900EC76D4 /* SFSymbols.swift */; };
 		CD25793E2C37D5CA00EC76D4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CD25793D2C37D5CA00EC76D4 /* README.md */; };
+		CD6A30DD2C5934E30024A4D1 /* ButtonBasics.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6A30DC2C5934E30024A4D1 /* ButtonBasics.swift */; };
 		CDC3B0432C3D78B3001CC80D /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC3B0422C3D78B3001CC80D /* ColorPickerView.swift */; };
 		CDC3B0452C3D7AA3001CC80D /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC3B0442C3D7AA3001CC80D /* SliderView.swift */; };
 /* End PBXBuildFile section */
@@ -37,6 +38,7 @@
 		CD25793C2C37D13A00EC76D4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CD25793D2C37D5CA00EC76D4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CD33FA432C3D7D9000C863AD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CD6A30DC2C5934E30024A4D1 /* ButtonBasics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBasics.swift; sourceTree = "<group>"; };
 		CDC3B0422C3D78B3001CC80D /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 		CDC3B0442C3D7AA3001CC80D /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -72,6 +74,7 @@
 		CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CD6A30DB2C5934B90024A4D1 /* ButtonBasics */,
 				CDC3B0412C3D7871001CC80D /* 07DataFlowNViewComposition */,
 				CD2579392C37CC7C00EC76D4 /* 05SFSymbols */,
 				CD2579352C36CFAE00EC76D4 /* 04StateProperties */,
@@ -119,6 +122,14 @@
 				CD25793C2C37D13A00EC76D4 /* README.md */,
 			);
 			path = 05SFSymbols;
+			sourceTree = "<group>";
+		};
+		CD6A30DB2C5934B90024A4D1 /* ButtonBasics */ = {
+			isa = PBXGroup;
+			children = (
+				CD6A30DC2C5934E30024A4D1 /* ButtonBasics.swift */,
+			);
+			path = ButtonBasics;
 			sourceTree = "<group>";
 		};
 		CDC3B0412C3D7871001CC80D /* 07DataFlowNViewComposition */ = {
@@ -208,6 +219,7 @@
 				CDC3B0452C3D7AA3001CC80D /* SliderView.swift in Sources */,
 				CD2579302C3556A300EC76D4 /* Challenge4Modifiers.swift in Sources */,
 				CD2579182C32E9E100EC76D4 /* ContentView.swift in Sources */,
+				CD6A30DD2C5934E30024A4D1 /* ButtonBasics.swift in Sources */,
 				CD2579162C32E9E100EC76D4 /* Practice4SwiftUIApp.swift in Sources */,
 				CD2579372C36CFD300EC76D4 /* StateProperties.swift in Sources */,
 				CD2579262C34468800EC76D4 /* ExerciseOfLayoutContainer.swift in Sources */,
