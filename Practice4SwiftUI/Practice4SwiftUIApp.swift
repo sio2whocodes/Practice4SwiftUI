@@ -11,7 +11,7 @@ import SwiftUI
 struct Practice4SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TextFieldDemo()
         }
     }
 }
