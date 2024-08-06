@@ -19,7 +19,7 @@ firstnameInput 이라는 @State 프로퍼티를 선언하여 사용.
 이건 텍스트 필드에서 엔터를 눌렀을 때 즉 제출됐을 때 실행되는 코드블럭을 넣을 수 있다.
 
 **예시**
-```
+```swift
     TextField("Lastname", text: $lastnameInput)
         .onSubmit {
             print("it's your lastname:\(lastnameInput)")
@@ -35,7 +35,7 @@ focus를 제어하려면 focused에 파라미터로 condition을 넘겨야 하�
 **예시**
 뷰가 나타났을 때 바로 fistname을 입력하는 텍스트 필드가 활성화된다.
 
-```
+```swift
     @FocusState private var focus: Bool
     
     var body: some View {
@@ -54,7 +54,7 @@ focus를 제어하려면 focused에 파라미터로 condition을 넘겨야 하�
 이를 위해 어떤 텍스트 필드인지 구분하기 위한 Enum을 하나 선언한다.
 
 body 바깥에 FormFieldFocus를 만들었다.
-```
+```swift
     enum FormFieldFocus {
         case firstname, lastname
     }
@@ -68,7 +68,7 @@ binding에 변수를 담으면 그 값과 equals에 들어온 값이 같으면 f
 focus 변수에 해당 텍스트 필드 enum값이 담길 때 focus된다.
 
 **예시**
-```
+```swift
     VStack{
         TextField("Fistname", text: $firstnameInput)
             .onSubmit {
