@@ -20,6 +20,7 @@
 		CD6A30DD2C5934E30024A4D1 /* ButtonBasics.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6A30DC2C5934E30024A4D1 /* ButtonBasics.swift */; };
 		CD6A30E52C5BD79E0024A4D1 /* ImageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6A30E42C5BD79E0024A4D1 /* ImageDemo.swift */; };
 		CD6A30EB2C61C8550024A4D1 /* TextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6A30EA2C61C8550024A4D1 /* TextFieldDemo.swift */; };
+		CD6A30EF2C630AEB0024A4D1 /* TabViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6A30EE2C630AEB0024A4D1 /* TabViewDemo.swift */; };
 		CDC3B0432C3D78B3001CC80D /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC3B0422C3D78B3001CC80D /* ColorPickerView.swift */; };
 		CDC3B0452C3D7AA3001CC80D /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC3B0442C3D7AA3001CC80D /* SliderView.swift */; };
 /* End PBXBuildFile section */
@@ -45,6 +46,8 @@
 		CD6A30E62C5BD9E80024A4D1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CD6A30EA2C61C8550024A4D1 /* TextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDemo.swift; sourceTree = "<group>"; };
 		CD6A30EC2C61CF290024A4D1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CD6A30EE2C630AEB0024A4D1 /* TabViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewDemo.swift; sourceTree = "<group>"; };
+		CD6A30F02C630DD50024A4D1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CDC3B0422C3D78B3001CC80D /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 		CDC3B0442C3D7AA3001CC80D /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -80,6 +83,7 @@
 		CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CD6A30ED2C630ADC0024A4D1 /* TabView */,
 				CD6A30E92C61C8320024A4D1 /* TextFields */,
 				CD6A30E32C5BD78E0024A4D1 /* ImageBasics */,
 				CD6A30DB2C5934B90024A4D1 /* ButtonBasics */,
@@ -156,6 +160,15 @@
 				CD6A30EC2C61CF290024A4D1 /* README.md */,
 			);
 			path = TextFields;
+			sourceTree = "<group>";
+		};
+		CD6A30ED2C630ADC0024A4D1 /* TabView */ = {
+			isa = PBXGroup;
+			children = (
+				CD6A30EE2C630AEB0024A4D1 /* TabViewDemo.swift */,
+				CD6A30F02C630DD50024A4D1 /* README.md */,
+			);
+			path = TabView;
 			sourceTree = "<group>";
 		};
 		CDC3B0412C3D7871001CC80D /* 07DataFlowNViewComposition */ = {
@@ -251,6 +264,7 @@
 				CD2579372C36CFD300EC76D4 /* StateProperties.swift in Sources */,
 				CD6A30E52C5BD79E0024A4D1 /* ImageDemo.swift in Sources */,
 				CD2579262C34468800EC76D4 /* ExerciseOfLayoutContainer.swift in Sources */,
+				CD6A30EF2C630AEB0024A4D1 /* TabViewDemo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
