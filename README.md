@@ -20,6 +20,8 @@ SwiftUI 공부하는 곳입니다.
 |10|7/30|[Button Basics](https://www.youtube.com/watch?v=Gdu6WgIu37A&list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf)|[10](https://github.com/sio2whocodes/Practice4SwiftUI/blob/main/Practice4SwiftUI/ButtonBasics/ButtonBasics.swift)|
 |11|8/1|[Image Basics](https://www.youtube.com/watch?v=oA7Hp0OcrBA&list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf&index=2&t=1s)|[11](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/ImageBasics)|
 |12|8/6|[Text Field](https://www.youtube.com/watch?v=SFL5Y2NXkfY&list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf&index=4)|[12](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/TextFields)|
+|13|8/7|[Tab View](https://www.youtube.com/watch?v=SFL5Y2NXkfY&list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf&index=5)|[13](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/TabView)|
+|14|8/8|[Button in Navigation Bar](https://www.youtube.com/watch?v=SFL5Y2NXkfY&list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf&index=6)|[14](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/NavigationView)|
 
 ## 과제 인증 사진 📱
 |02 Layout Containers 과제|03 Modifiers Challenge|04 State Properties|06 Slots App|
