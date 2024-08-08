@@ -50,6 +50,7 @@
 		CD6A30EE2C630AEB0024A4D1 /* TabViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewDemo.swift; sourceTree = "<group>"; };
 		CD6A30F02C630DD50024A4D1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CD6A30F12C6465EC0024A4D1 /* ButtonNavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonNavigationBar.swift; sourceTree = "<group>"; };
+		CD6A30F42C6467CE0024A4D1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CDC3B0422C3D78B3001CC80D /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 		CDC3B0442C3D7AA3001CC80D /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,7 +69,6 @@
 		CD2579092C32E9E100EC76D4 = {
 			isa = PBXGroup;
 			children = (
-				CD6A30F32C6465F30024A4D1 /* NavigationView */,
 				CD25793D2C37D5CA00EC76D4 /* README.md */,
 				CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */,
 				CD2579132C32E9E100EC76D4 /* Products */,
@@ -86,6 +86,7 @@
 		CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CD6A30F32C6465F30024A4D1 /* NavigationView */,
 				CD6A30ED2C630ADC0024A4D1 /* TabView */,
 				CD6A30E92C61C8320024A4D1 /* TextFields */,
 				CD6A30E32C5BD78E0024A4D1 /* ImageBasics */,
@@ -178,6 +179,7 @@
 			isa = PBXGroup;
 			children = (
 				CD6A30F12C6465EC0024A4D1 /* ButtonNavigationBar.swift */,
+				CD6A30F42C6467CE0024A4D1 /* README.md */,
 			);
 			path = NavigationView;
 			sourceTree = "<group>";
