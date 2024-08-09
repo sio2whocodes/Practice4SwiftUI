@@ -22,6 +22,7 @@ SwiftUI 공부하는 곳입니다.
 |12|8/6|[Text Field](https://www.youtube.com/watch?v=SFL5Y2NXkfY&list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf&index=4)|[12](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/TextFields)|
 |13|8/7|[Tab View](https://www.youtube.com/watch?v=SFL5Y2NXkfY&list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf&index=5)|[13](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/TabView)|
 |14|8/8|[Button in Navigation Bar](https://www.youtube.com/watch?v=SFL5Y2NXkfY&list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf&index=6)|[14](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/NavigationView)|
+|15|8/9|[ColorPicker(2024)](https://www.youtube.com/watch?v=SFL5Y2NXkfY&list=PLMRqhzcHGw1Yw2XJyHnxoEXPBCdMaRzkf&index=7)|[15](https://github.com/sio2whocodes/Practice4SwiftUI/tree/main/Practice4SwiftUI/ColorPicker)|
 
 ## 과제 인증 사진 📱
 |02 Layout Containers 과제|03 Modifiers Challenge|04 State Properties|06 Slots App|
@@ -29,8 +30,11 @@ SwiftUI 공부하는 곳입니다.
 |<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/81850cab-857d-472a-b16d-08dd46be859c" />|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/c847894a-3963-40bb-9a09-d3f5b8c53862">|<img width="200" alt="image" src ="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/84742c5e-a162-4189-afb8-a47e27ce064c">|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/2b517494-352c-46fc-a35f-e1c8652ec225">|
 |07 Data Flow and View Compotision|08 Improving Slots App|10 Button Basics|11 Image Basics|
 |<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/ed7c0a77-a3fb-4650-bd6c-902a76629c86">|<img width="100" alt="image" src="https://github.com/sio2whocodes/Practice4SwiftUI/assets/41771874/d87ce141-23f8-497e-aa3c-a0e7afd18509">|<img width="100" alt="image" alt="image" src="https://github.com/user-attachments/assets/b3e1518e-a4b3-4c54-b728-2c34f6e00884">|<img width="100" alt="image" src="https://github.com/user-attachments/assets/67bebeca-591b-4f0c-af6b-fa7f3e4161a1">|
-|12 TextField|
-|<img width="100" alt="image" src="https://github.com/user-attachments/assets/f20ef1a6-59a0-40d5-8929-dc44f9c0b775">|
+|12 TextField|13 TabView|14 Button in NavigationBar|15 ColorPicker|
+|<img width="100" alt="image" src="https://github.com/user-attachments/assets/f20ef1a6-59a0-40d5-8929-dc44f9c0b775">|<img width="100" alt="image" src="https://github.com/user-attachments/assets/05b1e377-7fcd-4314-8f52-c51afc52550d">|<img width="100" alt="image" src="https://github.com/user-attachments/assets/ecbf9310-901e-42a7-9693-1773b2e825d0">|<img width="100" alt="image" src="https://github.com/user-attachments/assets/ebc46638-9931-4578-8589-36cfb2f8c896">|
+
+
+
 
 
 
