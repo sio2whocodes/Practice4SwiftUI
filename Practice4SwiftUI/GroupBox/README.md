@@ -8,5 +8,6 @@ GroupBox 너무 편하다. 약간 원래는 겉에 UIView 만들어서 썼던걸
 
 그런데 살짝 의문인 점은 서브뷰 만들어서 불러 쓰는거랑 큰 차이가 있나? 차이가 뭘까 싶은데 쓰면서 알아봐야 할 것 같음
 
+아래는 이것저것 때려넣은 그룹박스 ㅎ-ㅎ
 
-
+<img width="267" alt="image" src="https://github.com/user-attachments/assets/4cd63267-8ff9-4f89-a24c-ba66d61671db">
