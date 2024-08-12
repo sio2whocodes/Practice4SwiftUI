@@ -34,6 +34,7 @@ SwiftUI 공부하는 곳입니다.
 |12 TextField|13 TabView|14 Button in NavigationBar|15 ColorPicker|
 |<img width="100" alt="image" src="https://github.com/user-attachments/assets/f20ef1a6-59a0-40d5-8929-dc44f9c0b775">|<img width="100" alt="image" src="https://github.com/user-attachments/assets/05b1e377-7fcd-4314-8f52-c51afc52550d">|<img width="100" alt="image" src="https://github.com/user-attachments/assets/ecbf9310-901e-42a7-9693-1773b2e825d0">|<img width="100" alt="image" src="https://github.com/user-attachments/assets/ebc46638-9931-4578-8589-36cfb2f8c896">|
 |16 GroupBox|
+|<img width="100" alt="image" src="https://github.com/user-attachments/assets/39247fdf-3003-4975-a078-949595463f89">|
 
 
 
