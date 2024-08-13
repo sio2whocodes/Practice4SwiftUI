@@ -63,6 +63,9 @@ URL이 옵셔널 타입이어서 if let 구문을 사용했구요, 이렇게 Web
     }
 ```
 
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/2329a212-eb5c-4765-9f54-c58dfc469ff1">
+
+
 저는 심심해서 TabView안에 WebView를 넣어봤습니다. 실제로는 두줄정도 하는 코드겠네요.
 
 앞으로 프로젝트하면서 자주 쓰일 WebView를 써봤습니다. 그럼 20000~
