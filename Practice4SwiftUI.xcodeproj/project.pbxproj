@@ -30,6 +30,7 @@
 		CDC3B0452C3D7AA3001CC80D /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC3B0442C3D7AA3001CC80D /* SliderView.swift */; };
 		CDE608BF2C72DA3100075795 /* LabelDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE608BE2C72DA3100075795 /* LabelDemo.swift */; };
 		CDE608C32C72E0AE00075795 /* DisclosureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE608C22C72E0AE00075795 /* DisclosureDemo.swift */; };
+		CDE608C72C72E50400075795 /* StepperDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE608C62C72E50400075795 /* StepperDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,8 @@
 		CDE608C02C72DBDE00075795 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CDE608C22C72E0AE00075795 /* DisclosureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisclosureDemo.swift; sourceTree = "<group>"; };
 		CDE608C42C72E37200075795 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CDE608C62C72E50400075795 /* StepperDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperDemo.swift; sourceTree = "<group>"; };
+		CDE608C82C72E83900075795 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,7 @@
 		CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CDE608C52C72E4F400075795 /* Stepper */,
 				CDE608C12C72E09B00075795 /* DisclosureGroup */,
 				CDE608BD2C72D9DB00075795 /* Label */,
 				CD6A30FC2C6AF5380024A4D1 /* WebView */,
@@ -260,6 +264,15 @@
 			path = DisclosureGroup;
 			sourceTree = "<group>";
 		};
+		CDE608C52C72E4F400075795 /* Stepper */ = {
+			isa = PBXGroup;
+			children = (
+				CDE608C62C72E50400075795 /* StepperDemo.swift */,
+				CDE608C82C72E83900075795 /* README.md */,
+			);
+			path = Stepper;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -347,6 +360,7 @@
 				CD2579372C36CFD300EC76D4 /* StateProperties.swift in Sources */,
 				CD6A30E52C5BD79E0024A4D1 /* ImageDemo.swift in Sources */,
 				CD2579262C34468800EC76D4 /* ExerciseOfLayoutContainer.swift in Sources */,
+				CDE608C72C72E50400075795 /* StepperDemo.swift in Sources */,
 				CD6A31002C6AF5560024A4D1 /* WebView.swift in Sources */,
 				CDE608BF2C72DA3100075795 /* LabelDemo.swift in Sources */,
 				CD6A30FE2C6AF5450024A4D1 /* WebViewDemo.swift in Sources */,
