@@ -29,6 +29,7 @@
 		CDC3B0432C3D78B3001CC80D /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC3B0422C3D78B3001CC80D /* ColorPickerView.swift */; };
 		CDC3B0452C3D7AA3001CC80D /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC3B0442C3D7AA3001CC80D /* SliderView.swift */; };
 		CDE608BF2C72DA3100075795 /* LabelDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE608BE2C72DA3100075795 /* LabelDemo.swift */; };
+		CDE608C32C72E0AE00075795 /* DisclosureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE608C22C72E0AE00075795 /* DisclosureDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,8 @@
 		CDC3B0442C3D7AA3001CC80D /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 		CDE608BE2C72DA3100075795 /* LabelDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelDemo.swift; sourceTree = "<group>"; };
 		CDE608C02C72DBDE00075795 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CDE608C22C72E0AE00075795 /* DisclosureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisclosureDemo.swift; sourceTree = "<group>"; };
+		CDE608C42C72E37200075795 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,7 @@
 		CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CDE608C12C72E09B00075795 /* DisclosureGroup */,
 				CDE608BD2C72D9DB00075795 /* Label */,
 				CD6A30FC2C6AF5380024A4D1 /* WebView */,
 				CD6A30F82C69A8C30024A4D1 /* GroupBox */,
@@ -247,6 +251,15 @@
 			path = Label;
 			sourceTree = "<group>";
 		};
+		CDE608C12C72E09B00075795 /* DisclosureGroup */ = {
+			isa = PBXGroup;
+			children = (
+				CDE608C22C72E0AE00075795 /* DisclosureDemo.swift */,
+				CDE608C42C72E37200075795 /* README.md */,
+			);
+			path = DisclosureGroup;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -323,6 +336,7 @@
 				CD6A30F72C65B0C40024A4D1 /* ColorPickerDemo.swift in Sources */,
 				CDC3B0432C3D78B3001CC80D /* ColorPickerView.swift in Sources */,
 				CD25793B2C37CC8900EC76D4 /* SFSymbols.swift in Sources */,
+				CDE608C32C72E0AE00075795 /* DisclosureDemo.swift in Sources */,
 				CDC3B0452C3D7AA3001CC80D /* SliderView.swift in Sources */,
 				CD2579302C3556A300EC76D4 /* Challenge4Modifiers.swift in Sources */,
 				CD2579182C32E9E100EC76D4 /* ContentView.swift in Sources */,
