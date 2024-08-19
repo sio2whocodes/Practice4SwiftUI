@@ -31,6 +31,7 @@
 		CDE608BF2C72DA3100075795 /* LabelDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE608BE2C72DA3100075795 /* LabelDemo.swift */; };
 		CDE608C32C72E0AE00075795 /* DisclosureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE608C22C72E0AE00075795 /* DisclosureDemo.swift */; };
 		CDE608C72C72E50400075795 /* StepperDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE608C62C72E50400075795 /* StepperDemo.swift */; };
+		CDE608CB2C72EA4000075795 /* LinkDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE608CA2C72EA4000075795 /* LinkDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,8 @@
 		CDE608C42C72E37200075795 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CDE608C62C72E50400075795 /* StepperDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperDemo.swift; sourceTree = "<group>"; };
 		CDE608C82C72E83900075795 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CDE608CA2C72EA4000075795 /* LinkDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkDemo.swift; sourceTree = "<group>"; };
+		CDE608CC2C72EBD100075795 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,7 @@
 		CD2579142C32E9E100EC76D4 /* Practice4SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CDE608C92C72EA3600075795 /* Link */,
 				CDE608C52C72E4F400075795 /* Stepper */,
 				CDE608C12C72E09B00075795 /* DisclosureGroup */,
 				CDE608BD2C72D9DB00075795 /* Label */,
@@ -273,6 +277,15 @@
 			path = Stepper;
 			sourceTree = "<group>";
 		};
+		CDE608C92C72EA3600075795 /* Link */ = {
+			isa = PBXGroup;
+			children = (
+				CDE608CA2C72EA4000075795 /* LinkDemo.swift */,
+				CDE608CC2C72EBD100075795 /* README.md */,
+			);
+			path = Link;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -356,6 +369,7 @@
 				CD6A30FA2C69A8D10024A4D1 /* GroupBoxDemo.swift in Sources */,
 				CD6A30DD2C5934E30024A4D1 /* ButtonBasics.swift in Sources */,
 				CD2579162C32E9E100EC76D4 /* Practice4SwiftUIApp.swift in Sources */,
+				CDE608CB2C72EA4000075795 /* LinkDemo.swift in Sources */,
 				CD6A30EB2C61C8550024A4D1 /* TextFieldDemo.swift in Sources */,
 				CD2579372C36CFD300EC76D4 /* StateProperties.swift in Sources */,
 				CD6A30E52C5BD79E0024A4D1 /* ImageDemo.swift in Sources */,
